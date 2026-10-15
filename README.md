@@ -1,4 +1,4 @@
-# Hi there, I'm Muchaziwepi 👋
+# Hi there, I'm Sally Muchaziwepi 👋
 
 ### 💻 Computer Science Student | Aspiring Software Developer | Lifelong Learner
 
@@ -43,8 +43,8 @@ Check out my repositories to follow my progress and see what I'm building!
 
 I'm always happy to connect with people who are passionate about software development, technology, and learning.
 
-- 📧 **Email:** YOUR_EMAIL@example.com
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- 📧 **Email:** sallymiriro@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sally-muchaziwepi-7909a32b5/)
 - 🐙 **GitHub:** [Explore my repositories](https://github.com/Muchaziwepi)
 
 ### ⚡ A Little About Me
